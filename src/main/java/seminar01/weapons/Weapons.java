@@ -9,3 +9,4 @@ public class Weapons {
 
     protected int range;
 }
+
